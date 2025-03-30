@@ -8,7 +8,7 @@ Hey there! I'm [Subhajit Adhikary](https://www.linkedin.com/in/subhajit-adhikary
 
 🌐 **Expanding Businesses Online**: Seeking freelance clients ready to take their businesses to the next level in the digital world.
 
-💼 **Expertise**: Strong in React.js, Node.js, JavaScript, Nextjs, ExpressJs, Python, Django, MySql, Docker, crafting robust and user-friendly web solutions.
+💼 **Expertise**: Strong in Java, Springboot, React.js, Node.js, JavaScript, ExpressJs, MySql, Docker, crafting robust and user-friendly web solutions.
 
 ## Let's Connect!
 
